@@ -195,8 +195,7 @@ The shipping type widely used among customers was the standard class with a tota
 
 
 To have access to the complete interactive dashboard, click on the link below:
-
-
+https://app.powerbi.com/groups/me/reports/76683f83-7548-4c31-bd67-4316c8a5f406?experience=power-bi
 
 
 
